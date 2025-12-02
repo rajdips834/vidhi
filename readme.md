@@ -1,4 +1,4 @@
-# Vidi.AI
+# Vidhi.AI
 
 A web-based chat interface to interact with Vidhi.ai **FastAPI backend** and a **React frontend**. Basically, this is a RAG-tuned AI model that can answer all questions regarding The Indian Constitution. This project supports **streaming responses** from Ollama and can be hosted on a personal Windows machine, accessible publicly.
 
