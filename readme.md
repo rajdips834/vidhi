@@ -1,6 +1,6 @@
-# Ollama Chat (FastAPI + React)
+# Vidi.AI
 
-A web-based chat interface to interact with [Ollama](https://ollama.com/) models using a **FastAPI backend** and a **React frontend**. This project supports **streaming responses** from Ollama and can be hosted on a personal Windows machine, accessible publicly.
+A web-based chat interface to interact with Vidhi.ai **FastAPI backend** and a **React frontend**. Basically, this is a RAG-tuned AI model that can answer all questions regarding The Indian Constitution. This project supports **streaming responses** from Ollama and can be hosted on a personal Windows machine, accessible publicly.
 
 ---
 
